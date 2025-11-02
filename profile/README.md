@@ -1,12 +1,8 @@
 <h1 align="center">Computer Science Association @ HCC</h1>
 
 <p align="center">
-  <img src="hcc-logo-white.png" alt="HCC Logo" width="200">
-</p>
-<p align="center">
   <img src="logo-gradient.jpg" alt="CSA Logo" width="300">
 </p>
----
 
 ### About Us
 The **Computer Science Association (CSA)** at **Houston City College** is dedicated to empowering students to explore, innovate, and lead in the world of technology.  
