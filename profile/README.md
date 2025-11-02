@@ -1,7 +1,7 @@
 <h1 align="center">Computer Science Association @ HCC</h1>
 
 <p align="center">
-  <img src="logo-gradient.jpg" alt="CSA Logo" width="300">
+  <img src="./img/logo-gradient.jpg" alt="CSA Logo" width="300">
 </p>
 
 ### About Us
@@ -33,7 +33,7 @@ Stay informed about meetings, events, and projects:
 ---
 
 <p align="center">
-  <img src="csa-dark.jpg" alt="CSA Gradient Logo" width="200">
+  <img src="./img/csa-dark.jpg" alt="CSA Gradient Logo" width="200">
 </p>
 
 <p align="center">
