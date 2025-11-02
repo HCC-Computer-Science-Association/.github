@@ -1,12 +1,56 @@
-## Hi there 👋
+<p align="center">
+  <img src="logo-gradient.jpg" alt="CSA Logo" width="300">
+</p>
 
-<!--
+<h1 align="center">Computer Science Association @ HCC</h1>
 
-**Here are some ideas to get you started:**
+<p align="center">
+  <img src="hcc-logo-white.png" alt="HCC Logo" width="200">
+</p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+### About Us
+The **Computer Science Association (CSA)** at **Houston Community College** is dedicated to empowering students to explore, innovate, and lead in the world of technology.  
+Our mission is to **train, prepare, and unite students** for the ever-evolving technological frontier, fostering technical excellence, ethical integrity, and professional growth.
+
+---
+
+### Our Values
+- **Integrity** — We act honorably, responsibly, and ethically.  
+- **Innovation** — We embrace creativity and forward thinking.  
+- **Community** — We collaborate, mentor, and grow together.  
+- **Excellence** — We strive to lead and pioneer in technology.
+
+---
+
+### What We Do
+- Host **workshops** and **tech talks** on emerging technologies.  
+- Build **projects** that strengthen programming and teamwork skills.  
+- Connect members with **industry professionals** and **career opportunities**.  
+- Encourage **research, collaboration, and leadership development**.
+
+---
+
+### Leadership & Membership
+CSA welcomes all HCC students with an interest in computer science—whether as a hobby or a career pursuit.  
+Leadership positions are open to active members who seek to contribute to the growth and direction of the organization.
+
+---
+
+### Connect With Us
+Stay informed about meetings, events, and projects:
+- **Email:** [Contact through HCC Student Life or CSA Officers]  
+- **Socials:** Follow CSA on official HCC student platforms and social media channels.  
+- **Join Us:** Attend a meeting or reach out to an officer to get involved.
+
+---
+
+<p align="center">
+  <img src="csa-dark.jpg" alt="CSA Gradient Logo" width="200">
+</p>
+
+<p align="center">
+  <b>Computer Science Association @ Houston Community College</b><br>
+  Innovate. Collaborate. Lead.
+</p>
