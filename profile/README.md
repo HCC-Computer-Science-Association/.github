@@ -1,26 +1,16 @@
-<p align="center">
-  <img src="logo-gradient.jpg" alt="CSA Logo" width="300">
-</p>
-
 <h1 align="center">Computer Science Association @ HCC</h1>
 
 <p align="center">
   <img src="hcc-logo-white.png" alt="HCC Logo" width="200">
 </p>
-
+<p align="center">
+  <img src="logo-gradient.jpg" alt="CSA Logo" width="300">
+</p>
 ---
 
 ### About Us
-The **Computer Science Association (CSA)** at **Houston Community College** is dedicated to empowering students to explore, innovate, and lead in the world of technology.  
+The **Computer Science Association (CSA)** at **Houston City College** is dedicated to empowering students to explore, innovate, and lead in the world of technology.  
 Our mission is to **train, prepare, and unite students** for the ever-evolving technological frontier, fostering technical excellence, ethical integrity, and professional growth.
-
----
-
-### Our Values
-- **Integrity** — We act honorably, responsibly, and ethically.  
-- **Innovation** — We embrace creativity and forward thinking.  
-- **Community** — We collaborate, mentor, and grow together.  
-- **Excellence** — We strive to lead and pioneer in technology.
 
 ---
 
@@ -51,6 +41,6 @@ Stay informed about meetings, events, and projects:
 </p>
 
 <p align="center">
-  <b>Computer Science Association @ Houston Community College</b><br>
+  <b>Computer Science Association @ Houston City College</b><br>
   Innovate. Collaborate. Lead.
 </p>
