@@ -3,7 +3,7 @@
 ### About Us
 <img src=".\img\csa-dark.jpg" alt="rice" width="200" align="right"/>
 The Computer Science Association (CSA) at Houston City College is dedicated to empowering students to explore, innovate, and lead in the world of technology.  
-Our mission is to train, prepare, and unite students for the ever-evolving technological frontier, fostering technical excellence, ethical integrity, and professional growth.
+Our mission is to train, prepare, and unite students for the ever-evolving technological frontier, fostering technical excellence, and professional growth.
 
 ### What We Do
 - Host **workshops** and **tech talks** on emerging technologies.  
